@@ -6763,6 +6763,7 @@
                     "description":"Papa’s Quiz is a party game for 1-8 players. Use phones or tablets as controllers and compete in multiple question types, where the smartest and fastest player will be the last standing victor!",
                     "images":[
                         "game_images/PapasQuiz/papasquiz.mp4",
+						"game_images/PapasQuiz/testfilethatisntreal.mp4",
                         "game_images/PapasQuiz/papasquiz_1.jpg",
                         "game_images/PapasQuiz/papasquiz_2.jpg",
                         "game_images/PapasQuiz/papasquiz_3.jpg",
@@ -6833,7 +6834,6 @@
                     "small_description":"Take your rightful place on the throne",
                     "description":"Take your rightful place on the throne in this multiplayer-only party game for 4+ players. Rule the kingdom with an iron fist or silver tongue as you steer through bloodshed, intrigue & madcap disaster! Can you keep your crown when others plot your downfall?",
                     "images":[
-                        "game_images/KingOfTheCastle/kingofthecastle.mp4",
                         "game_images/KingOfTheCastle/kingofthecastle_1.webp",
                         "game_images/KingOfTheCastle/kingofthecastle_2.webp",
                         "game_images/KingOfTheCastle/kingofthecastle_3.webp",
@@ -6904,7 +6904,6 @@
                     "small_description":"Take your rightful place on the throne",
                     "description":"If you can’t build shelter in a matter of days your entire group will perish. But the forest is cursed, and is driving some of your friends mad - now they’re trying to get you all killed. Find the Traitors in Forest of Deceit, a social deduction Jackbox-esque game for 4-8 players.",
                     "images":[
-                        "game_images/ForestofDeceit/forestofdeceit.mp4",
                         "game_images/ForestofDeceit/forestofdeceit_1.webp",
                         "game_images/ForestofDeceit/forestofdeceit_2.webp",
                         "game_images/ForestofDeceit/forestofdeceit_3.webp",
