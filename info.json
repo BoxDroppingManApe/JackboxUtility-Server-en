@@ -1,14 +1,14 @@
 {
-    "id":"jackbox-en",
-    "name":"Jackbox Utility",
-    "description":"The community server for Jackbox Games in English!",
-    "image":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/assets/news_images/logo.png",
+    "id":"jackbox-en-fod-kotc",
+    "name":"Jackbox Utility - FoD and KotC",
+    "description":"Testing to make sure this works",
+    "image":"https://raw.githubusercontent.com/BoxDroppingManApe/JackboxUtility-Server-en/test/assets/news_images/logo.png",
 
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/api/v2/",
-            "assets":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/assets"
+            "api":"https://raw.githubusercontent.com/BoxDroppingManApe/JackboxUtility-Server-en/test/api/v2/",
+            "assets":"https://raw.githubusercontent.com/BoxDroppingManApe/JackboxUtility-Server-en/test/assets"
         }
     ],
     "controller":"jackbox.tv",
@@ -17,7 +17,7 @@
         {
             "icon":"globe",
             "url":"https://www.jackboxgames.com/",
-            "text":"Testing to make sure this even works"
+            "text":"Website"
         },
         {
             "icon":"discord",
