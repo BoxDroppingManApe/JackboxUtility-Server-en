@@ -6881,14 +6881,14 @@
                     },
                     "playtime":{
                         "min":5,
-                        "max":10
+                        "max":15
                     },
                     "family_friendly":"FAMILY_FRIENDLY",
                     "audience":false,
-                    "audience_description":"unknown",
+                    "audience_description":"No audience feature",
                     "stream_friendly":"PLAYABLE",
                     "moderation":"NO_MODERATION",
-                    "moderation_description":"unknown",
+                    "moderation_description":"No manual moderation on name text; however, there is a basic slur filter built-in",
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"ENGLISH",
