@@ -7016,7 +7016,7 @@
                         "min":45,
                         "max":75
                     },
-                    "family_friendly":"NOT_FAMILY_FRIENDLY",
+                    "family_friendly":"FAMILY_FRIENDLY",
                     "audience":false,
                     "audience_description":"Unknown",
                     "stream_friendly":"PLAYABLE",
@@ -7084,7 +7084,7 @@
                         "min":0,
                         "max":999
                     },
-                    "family_friendly":"NOT_FAMILY_FRIENDLY",
+                    "family_friendly":"FAMILY_FRIENDLY",
                     "audience":false,
                     "audience_description":"Unknown",
                     "stream_friendly":"PLAYABLE",
@@ -7151,7 +7151,7 @@
                         "min":0,
                         "max":999
                     },
-                    "family_friendly":"NOT_FAMILY_FRIENDLY",
+                    "family_friendly":"FAMILY_FRIENDLY",
                     "audience":false,
                     "audience_description":"Unknown",
                     "stream_friendly":"PLAYABLE",
