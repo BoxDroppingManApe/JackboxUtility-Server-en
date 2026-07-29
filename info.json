@@ -1,8 +1,8 @@
 {
-    "id":"jackbox-en-fod-kotc",
-    "name":"Jackbox Utility - FoD and KotC",
-    "description":"Testing to make sure this works",
-    "image":"https://raw.githubusercontent.com/BoxDroppingManApe/JackboxUtility-Server-en/test/assets/news_images/logo.png",
+    "id":"jackbox-en-boxdrop",
+    "name":"BoxDrop's Custom Jackbox Utility Server",
+    "description":"Includes various games not currently in the English Jackbox Utility server",
+    "image":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/assets/news_images/logo.png",
 
     "urls":[
         {
