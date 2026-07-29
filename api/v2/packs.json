@@ -6943,12 +6943,12 @@
                 "path":"",
                 "game_info":{
                     "players":{
-                        "min":1,
-                        "max":999
+                        "min":3,
+                        "max":6
                     },
                     "playtime":{
-                        "min":0,
-                        "max":999
+                        "min":30,
+                        "max":30
                     },
                     "family_friendly":"NOT_FAMILY_FRIENDLY",
                     "audience":true,
@@ -7022,7 +7022,7 @@
                     "stream_friendly":"PLAYABLE",
                     "moderation":"NO_MODERATION",
                     "moderation_description":"Unknown",
-                    "subtitles":false,
+                    "subtitles":true,
                     "type":"COOP",
                     "translation":"ENGLISH",
                     "tagline":"A mind-stretching, collaborative quizcapade!",
@@ -7081,13 +7081,14 @@
                         "max":10
                     },
                     "playtime":{
-                        "min":0,
-                        "max":999
+                        "min":20,
+                        "max":30
                     },
                     "family_friendly":"FAMILY_FRIENDLY",
                     "audience":false,
                     "audience_description":"Unknown",
-                    "stream_friendly":"PLAYABLE",
+                    "stream_friendly":"MIDLY_PLAYABLE",
+                    "stream_friendly_description":"Being a bluffing and deduction game, it's recommended for players to be able to at least hear each other",
                     "moderation":"NO_MODERATION",
                     "moderation_description":"Unknown",
                     "subtitles":false,
@@ -7148,13 +7149,14 @@
                         "max":5
                     },
                     "playtime":{
-                        "min":0,
-                        "max":999
+                        "min":12,
+                        "max":105
                     },
                     "family_friendly":"FAMILY_FRIENDLY",
                     "audience":false,
                     "audience_description":"Unknown",
-                    "stream_friendly":"PLAYABLE",
+                    "stream_friendly":"MIDLY_PLAYABLE",
+                    "stream_friendly_description":"Being a discussion game, it's recommended for players to be able to at least hear each other",
                     "moderation":"NO_MODERATION",
                     "moderation_description":"Unknown",
                     "subtitles":false,
