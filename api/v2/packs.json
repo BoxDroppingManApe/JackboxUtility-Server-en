@@ -7056,7 +7056,7 @@
             "steam":"1413250"
         },
         "executables":{
-            "windows":"RoJ\Republic of Jungle.exe",
+            "windows":"RoJ\\Republic of Jungle.exe",
             "linux":"Republic of Jungle.x86_64",
             "mac":"RoJ.app"
         },
